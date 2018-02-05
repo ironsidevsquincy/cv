@@ -14,7 +14,7 @@ I have nearly twelve years of professional Web Development experience, and many 
 ### MSci Mathematics
 
 * Royal Holloway, University of London
-* Jun 2000 - 04
+* Jun 2000 - 2004
 * Classification: 2.1
 
 I studied for an MSci in Mathematics at undergraduate level for four years, culminating in a 2.1. Modules varied from Computational Mathematics, to Cypher Systems, to Public-Key Cryptography. Apart from the tangible skills learnt, such as algorithm complexity, RSA cryptosystems and working with programming languages, C++ in particular, I also obtained a greater understanding and practical experience of problem solving and analytical thinking.
@@ -48,7 +48,7 @@ I worked not only closely with the designers on creating the site itself, but al
 ### Front End Developer (Contractor)
 
 * Financial Times
-* Mar 2015 - June 2017
+* Mar 2015 - Jun 2017
 
 Again, I joined the team a few months into the redesign/build of the new responsive FT website. Not only was this a new site for the company, it was also a completely new way of working within the FT; the team worked closely with other departments (design, QA), in and agile, data-driven way, and had complete autonomy and ownership of the full stack. We, as a team, were afforded a freedom that was rare from a company of that size and structure, which has fortunately latest to this day. We had the ability to choose the right technology for the problem, leading to us use not only Heroku for our standard deployment, but also a variety of AWS services (Elasticsearch to serve the content for our site, S3 for general site assets, Lambda for small and quick regular jobs) for more scalable solutions. This led to use launching the site in Dec 2016, which was by all accounts a smooth process (a rather anticlimactic flick of the switch, our hard-work making the site robust meant there were no surprises) and now serving ~2m requests a day
 
