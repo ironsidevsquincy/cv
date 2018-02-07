@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "markdown-pdf": "^8.1.1"
+  },
+  "scripts": {
+    "pdf": "markdown-pdf cv.md"
+  }
+}
