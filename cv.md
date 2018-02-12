@@ -1,7 +1,7 @@
 # Darren Hurley
 
 * **Address**: Berlin, Germany
-* **Mobile**: 07841 860 947
+* **Mobile**: +44 7841 860 947
 * **Email**: hellodarrenhurley@gmail.com
 
 I have nearly thirteen years of professional Web Development experience. I have worked on high-profile, high-traffic websites, constrained by tight or immovable deadlines. I have led development teams, acting in both a mentoring and project-leadership role. I am an affable, self-motivated worker, quick to pick-up new techniques and technologies, who would fit into any modern web-development company.
