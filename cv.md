@@ -8,7 +8,7 @@ I have nearly thirteen years of professional Web Development experience. I have 
 
 ## Professional Experience
 
-### Senior Developer at 100 Ways (Contractor)
+### Senior Developer at 100 Ways (Freelance)
 Jul 2017 - Jan 2018 (7 months)
 
 * Worked on the rebuild of the Arcadia codebase, which powers seven high-profile e-commerce sites (e.g. Topshop, Topman, Miss Selfridge)
@@ -17,7 +17,7 @@ Jul 2017 - Jan 2018 (7 months)
 * We used Github to peer-review and approve pull requests before merging to master, which would then automatically deploy to our staging environment, using Jenkins
 * As many developers were junior or mid level, I took a leadership role in the team, by helping them to work through, or suggesting potential ways to approach, problems
 
-### Front End Developer at The Financial Times (Contractor)
+### Front End Developer at The Financial Times (Freelance)
 Mar 2015 - Jun 2017 (2 years, 4 months)
 
 * Worked on the redesign/build of the new responsive website (serving ~2 million requests per day), as well an internal tool used by journalists throughout the globe to upload video assets, attach metadata and captions, and deploy to the site in minutes
