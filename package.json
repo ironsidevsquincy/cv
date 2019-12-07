@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "markdown-pdf": "^8.1.1"
+    "markdown-pdf": "^10.0.0"
   },
   "scripts": {
-    "pdf": "markdown-pdf cv.md"
+    "pdf": "markdown-pdf cover-letter.md"
   }
 }
