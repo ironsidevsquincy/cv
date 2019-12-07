@@ -1,14 +1,14 @@
 # Darren Hurley
 
 * **Address**: Berlin, Germany
-* **Mobile**: +44 7841 860 947
-* **Email**: hellodarrenhurley@gmail.com
+* **Mobile**: +49 176671 69899
+* **Email**: hellodarrenhurley@fastmail.com
 
 I have nearly thirteen years of professional Web Development experience. I have worked on high-profile, high-traffic websites, constrained by tight or immovable deadlines. I have led development teams, acting in both a mentoring and project-leadership role. I am an affable, self-motivated worker, quick to pick-up new techniques and technologies, who would fit into any modern web-development company.
 
 ## Professional Experience
 
-### Senior Developer at 100 Ways (Freelance)
+### Senior Developer at 101 Ways (London)
 Jul 2017 - Jan 2018 (7 months)
 
 * Worked on the rebuild of the Arcadia codebase, which powers seven high-profile e-commerce sites (e.g. Topshop, Topman, Miss Selfridge)
@@ -17,7 +17,7 @@ Jul 2017 - Jan 2018 (7 months)
 * We used Github to peer-review and approve pull requests before merging to master, which would then automatically deploy to our staging environment, using Jenkins
 * As many developers were junior or mid level, I took a leadership role in the team, by helping them to work through, or suggesting potential ways to approach, problems
 
-### Front End Developer at The Financial Times (Freelance)
+### Front End Developer at The Financial Times (London)
 Mar 2015 - Jun 2017 (2 years, 4 months)
 
 * Worked on the redesign/build of the new responsive website (serving ~2 million requests per day), as well an internal tool used by journalists throughout the globe to upload video assets, attach metadata and captions, and deploy to the site in minutes
@@ -30,7 +30,7 @@ Mar 2015 - Jun 2017 (2 years, 4 months)
 * We had a strong belief in A/B testing and data as a way of confirming our hypotheses. At any one time we had ~4 tests running, and were able to interrogate the results in real time using Graphite
 * Flexibility to use the right tool for the job, be it frameworkes like React and Redux, or infrastructure, such as AWS' S3 (for images and site assets), Elasticsearch (for indexing the news articles), or Lambda (for small, regular jobs such as updating and deploying the sitemap)
 
-### Senior Web Developer The Guardian
+### Senior Web Developer The Guardian (London)
 Jul 2012 - Feb 2015 (2 years, 8 months)
 
 * Worked on the redesign/build of the new responsive website (serving ~10 million requests per day)
@@ -39,7 +39,7 @@ Jul 2012 - Feb 2015 (2 years, 8 months)
 * Continuous deployment, on merge to master, to a staging environment, before a one-click deploy to production
 * Worked very closely (daily stand ups, regular meetings, showcases) with both journalists and the creative director to realise their vision
 
-### Principal Web Developer at The BBC
+### Principal Web Developer at The BBC (London)
 Oct 2005 - Jul 2012 (6 years, 10 months)
 
 * Over nearly seven years, I worked on many different projects, starting as a Junior Web Developer, and through the years working up to Principal Web Developer. This meant I was exposed to many different codebases, colleagues (and their style of working), processes (agile, waterfall), tools (Jira, Pivotal Tracker) and technologies. As such, I'm left with the skills to easily integrate into a team and adapt to a situation, as well as voicing my opinions and ideas

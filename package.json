@@ -3,6 +3,7 @@
     "markdown-pdf": "^10.0.0"
   },
   "scripts": {
-    "pdf": "markdown-pdf cover-letter.md"
+    "pdf:cv": "markdown-pdf cv.md",
+    "pdf:cover-letter": "markdown-pdf cover-letter.md"
   }
 }
