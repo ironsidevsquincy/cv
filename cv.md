@@ -4,15 +4,25 @@
 * **Mobile**: +49 176671 69899
 * **Email**: hellodarrenhurley@fastmail.com
 
-I have nearly thirteen years of professional Web Development experience. I have worked on high-profile, high-traffic websites, constrained by tight or immovable deadlines. I have led development teams, acting in both a mentoring and project-leadership role. I am an affable, self-motivated worker, quick to pick-up new techniques and technologies, who would fit into any modern web-development company.
+I have nearly fifteen years of professional Web Development experience. I have worked on high-profile, high-traffic websites, constrained by tight or immovable deadlines. I have led development teams, acting in both a mentoring and project-leadership role. I am an affable, self-motivated worker, quick to pick-up new techniques and technologies, who would fit into any modern company.
 
 ## Professional Experience
+
+### Senior Software Engineer at Klarna (Berlin)
+Mar 2018 - Present
+
+* I currently work within in a platform team, whose chief role is to design and maintain the development and production architecture for 15 teams
+* We maintain a Jenkins pipeline, montioring and tweaking agents and configuration files with performance in mind
+* We extensively use Docker, e.g. for our services, Jenkins agents. I am versed in wiritng Docker (and compose) files
+* Keycloak is our user management system. We have extended it exstensively, which involves witiing plugins in Java that integrate with its API
+* As most of our infrastructure needs are supplied by AWS, I am often deep in a Cloudformation script, maintaining our databases, Cloudfront caching, security groups and EC2 instances
+* We also maintain the frontend architecture of a mono-repo; I'm heavily involved in making design decisions on how we develop, build and run the site
 
 ### Senior Developer at 101 Ways (London)
 Jul 2017 - Jan 2018 (7 months)
 
 * Worked on the rebuild of the Arcadia codebase, which powers seven high-profile e-commerce sites (e.g. Topshop, Topman, Miss Selfridge)
-* Site was rebuilt responsively, as a single page, isomorphic app, primarily using React (with Redux, Thunk/Saga and Router), with additional libraries, such as the Ramda
+* Site was rebuilt responsively, as a single page, isomorphic app, primarily using React (with Redux, Thunk/Saga and Router), with additional libraries, such as Ramda
 * We achieved thorough unit testing coverage, having moved to Jest from an earlier usage of Mocha, and a high quality of code, using a combination of ESLint and peer reviews
 * We used Github to peer-review and approve pull requests before merging to master, which would then automatically deploy to our staging environment, using Jenkins
 * As many developers were junior or mid level, I took a leadership role in the team, by helping them to work through, or suggesting potential ways to approach, problems
