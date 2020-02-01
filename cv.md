@@ -13,10 +13,10 @@ Mar 2018 - Present
 
 * I currently work within in a platform team, whose chief role is to design and maintain the development and production architecture for 15 teams
 * We maintain a Jenkins pipeline, montioring and tweaking agents and configuration files with performance in mind
-* We extensively use Docker, e.g. for our services, Jenkins agents. I am versed in wiritng Docker (and compose) files
-* Keycloak is our user management system. We have extended it exstensively, which involves witiing plugins in Java that integrate with its API
-* As most of our infrastructure needs are supplied by AWS, I am often deep in a Cloudformation script, maintaining our databases, Cloudfront caching, security groups and EC2 instances
-* We also maintain the frontend architecture of a mono-repo; I'm heavily involved in making design decisions on how we develop, build and run the site
+* We extensively use Docker, e.g. for our services, Jenkins agents. I am versed in writing Docker (and compose) files
+* Keycloak is our user management system. We have extended it exstensively, which involves writing plugins in Java that integrate with its API
+* As most of our infrastructure needs are supplied by AWS, I am often deep in a Cloudformation script, maintaining our databases, Cloudfront caching, security groups, load balancers and EC2 instances
+* We also maintain the frontend architecture of a (primarlity React-based) mono-repo; I'm heavily involved in making design decisions on how we develop, build and run the site
 
 ### Senior Developer at 101 Ways (London)
 Jul 2017 - Jan 2018 (7 months)

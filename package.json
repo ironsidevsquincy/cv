@@ -1,4 +1,5 @@
 {
+  "license": "UNLICENSED",
   "dependencies": {
     "markdown-pdf": "^10.0.0"
   },
