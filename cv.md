@@ -11,7 +11,7 @@ I have nearly fifteen years of professional Web Development experience. I have w
 ### Engineering Manager at Klarna (Berlin)
 Mar 2018 - Present
 
-* I currently the EM for a platform team, whose chief role is to design and maintain the development and production architecture for 15 teams
+* I am currently the EM for a platform team, whose chief role is to not only manage up to 5 engineers, but also design and maintain the development and production architecture for 15 teams
 * We maintain a Jenkins pipeline, montioring and tweaking agents and configuration files with performance in mind
 * We extensively use Docker, e.g. for our services, Jenkins agents. I am versed in writing Docker (and compose) files
 * Keycloak is our user authentication system. We have extended it exstensively, which involves writing plugins in Java that integrate with its API
