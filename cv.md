@@ -4,7 +4,7 @@
 * **Mobile**: +49 176 67169899
 * **Email**: hellodarrenhurley@fastmail.com
 
-I have nearly fifteen years of professional Web Development experience. I have worked on high-profile, high-traffic websites, constrained by tight or immovable deadlines. I have led development teams, acting in both a mentoring and project-leadership role. I am an affable, self-motivated worker, quick to pick-up new techniques and technologies, who would fit into any modern company.
+I have nearly eighteen years of professional Web Development experience. I have worked on high-profile, high-traffic websites, constrained by tight or immovable deadlines. I have led development teams, acting in both a mentoring and project-leadership role. I am an affable, self-motivated worker, quick to pick-up new techniques and technologies, who would fit into any modern company.
 
 ## Professional Experience
 
