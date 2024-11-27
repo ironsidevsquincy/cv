@@ -11,7 +11,7 @@ I have nineteen years of professional Web Development experience. I have worked 
 ### Engineering Manager/Product Owner at Klarna (Berlin)
 Mar 2018 - Present
 
-After joining Klarna as a Senior Engineer, I am now currently the Engineering Manager/Product Owner of a team of 5 engineers.
+After joining Klarna as a Senior Engineer, I am currently the Engineering Manager/Product Owner of a team of 5 engineers.
 Our primary focus is the B2B portal, used by nearly 700,000 of Klarna's merchants. The portal is made up of a series of apps that allow our merchants to, among other things, monitor and manage their orders, view disputes and settlements and access information about their account.
 As a platform team, our goal is to enable 15 other teams to easily build and deploy changes to the portal. We architect how these apps are built and run, as well as maintaining the pipeline for getting code into production.
 Currently, we are integral to reaching Klarna's company-wide goal to allow external payment service providers (e.g. Stripe) to easily integrate with us. The team is a critical part of this project, designing and building external-facing APIs.
